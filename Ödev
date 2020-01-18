@@ -1,0 +1,19 @@
+Nasıl engellenir?
+-----------------
+Flooding Saldırıları - TCP, UDP, ICMP
+ARP Poisoning
+ICMP Tünelleme
+MITM Saldırıları - ICMP-based, DNS-based, DHCP
+DHCP Rogue Server
+
+----------------------------------
+
+ICMP Tünellemer Denemesi için GitHub -- https://github.com/DhavalKapil/icmptunnel
+
+----------------------------------
+
+Makine Kurulumu
+
+Parrot ya da Kali
+Ubuntu Desktop
+Security Onion: http://static-course-assets.s3.amazonaws.com/CyberOps/SecurityOnion_[SBA].ova
