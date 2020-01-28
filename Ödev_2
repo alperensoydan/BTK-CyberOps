@@ -1,0 +1,4 @@
+Hedef Makine: Metasploitable2, Saldırgan Makine: Parrot/Kali Linux
+
+Nmap taraması gerçekleştirilmesi ve hedef alınan makinede tcpdump alınarak trafiğin pcap olarak kaydedilip Wireshark üzerinden incelenmesi.
+Hedef makinede tcpdump açılması durumu mümkün değilse aynı işlemin saldırgan makinede yapılması. (Saldırgan makinede Wireshark kullanılabilir.)
